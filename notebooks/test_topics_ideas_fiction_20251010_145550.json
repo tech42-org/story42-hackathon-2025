@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "route": "generate_topics_ideas",
+  "result": {
+    "metadata": {
+      "genre": "fiction",
+      "topics": "space exploration, alien encounters, and interstellar travel",
+      "created_timestamp": "2025-10-10T18:55:50.236660+00:00",
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "topics-ideas-fiction-20251010-145526",
+      "model_id": "bedrock/us.amazon.nova-pro-v1:0"
+    },
+    "tone": "Exciting and adventurous with moments of tension, wonder, and philosophical reflection.",
+    "source_types": "Science fiction literature, space exploration documentaries, interviews with astronauts and scientists, and imaginative storytelling techniques.",
+    "target_audience": "Young adults aged 14-18 and general adult audience interested in science fiction and adventure.",
+    "scope_coverage": "The story will cover the journey of a diverse crew of astronauts on a mission to explore a newly discovered planet, their encounters with alien civilizations, and the challenges of interstellar travel. It will delve into themes of exploration, cooperation, and the unknown.",
+    "subject_category": "Science Fiction Adventure",
+    "structure": "Three-act structure: Act 1 - The crew's preparation and departure; Act 2 - Their journey through space and initial encounters with alien civilizations; Act 3 - The climactic encounter with a powerful alien species and the return journey."
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "de2ff782-5385-4c88-ad42-019a72f98856"
+}

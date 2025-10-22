@@ -1,0 +1,72 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables (contains secrets!)
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+logs/
+
+# SQLite Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Session Storage
+sessions/
+story_sessions.db
+
+# File Storage (generated stories, images, audio)
+storage/
+*.mp3
+*.wav
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+frontend/.env
+frontend-daan/node_modules/
+frontend-daan/dist/
+frontend-daan/build/
+frontend-daan/.vite/
+frontend-daan/.env
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
+.nohup.out
+nohup.out

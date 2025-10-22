@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "route": "generate_topics_ideas",
+  "result": {
+    "metadata": {
+      "genre": "non-fiction",
+      "topics": "ocean ecosystems, marine animal behavior, and conservation",
+      "created_timestamp": "2025-10-10T18:57:17.204778+00:00",
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "topics-ideas-nonfiction-20251010-145713",
+      "model_id": "bedrock/us.amazon.nova-pro-v1:0"
+    },
+    "tone": "Educational yet engaging, with a sense of wonder and environmental awareness",
+    "source_types": "Scientific research papers, marine biologist interviews, documentary footage, and educational databases",
+    "target_audience": "Children aged 10-14 interested in science and nature",
+    "scope_coverage": "Ocean ecosystems, marine animal behavior, conservation efforts, and the impact of human activities on marine life",
+    "subject_category": "Natural Science - Marine Biology",
+    "structure": "Thematic chapters organized by ocean zones and species, with interactive facts and real-world examples"
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "4596e4d5-06b0-4b94-920e-e890c65eec07"
+}

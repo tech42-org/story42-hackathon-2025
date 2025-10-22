@@ -1,0 +1,47 @@
+# Example terraform.tfvars file for us-east-1 (Primary Region)
+# Copy this file to terraform.tfvars and fill in the values
+
+project_name        = "story-42"
+environment         = "dev"
+region              = "us-east-1"
+availability_zones  = ["us-east-1a", "us-east-1b"]
+admin_email         = "admin@example.com"
+admin_temp_password = "TempPassword123!"
+
+# CloudFront Custom Domain
+enable_custom_domain = false
+domain_name          = "tech42consulting.com"
+allow_public_website_access = true
+
+#######################################
+# Deployment Control
+#######################################
+images_ready = false  # Set to true after pushing images to ECR
+# When false: Creates ECR, VPC, S3, DynamoDB, Cognito
+# When true:  Creates Lambda, API Gateway, ECS
+
+#######################################
+# ECS Fargate Configuration
+#######################################
+ecs_image_tag         = "latest"
+ecs_desired_count     = 1
+ecs_cpu               = "512"
+ecs_memory            = "1024"
+
+# Tech42 TTS Configuration
+tech42_tts_api_url       = "http://tech42-tts-gpu-alb-1201907864.us-east-1.elb.amazonaws.com:82"
+tech42_tts_api_key       = "abcdefg"
+tech42_tts_default_voice = "en-Alice_woman"
+
+# Bedrock Configuration
+bedrock_model_id       = "us.amazon.nova-pro-v1:0"
+bedrock_max_tokens     = 4096
+bedrock_image_model_id = "stability.sd3-5-large-v1:0"
+bedrock_image_region   = "us-west-2"
+
+# Application Configuration
+cors_origins = "http://localhost:5173,http://localhost:3456"
+log_level    = "INFO"
+
+# Google API Key (required for image generation)
+google_api_key = "your-google-api-key-here"

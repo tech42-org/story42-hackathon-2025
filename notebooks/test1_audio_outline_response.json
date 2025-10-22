@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "route": "generate_story_outline_description",
+  "result": {
+    "story_parts": [
+      {
+        "story_part_summary": "In the sunny meadow just beyond Max's cozy burrow, the brave little mouse spots something shimmery poking out of the tall grass. It's a round, golden cheese that twinkles like a tiny sunrise. The Narrator whispers about Max's curious heart and his love for exploring, while Max squeaks excitedly, \"Whoa! What could this be?\" As he scurries closer, the cheese wiggles and introduces itself with a warm, buttery voice, \"Hello, I\u2019m Cheesy the magical cheese, and I can grant wishes!\" The three\u2011dimensional glow of the cheese fills the meadow, promising adventure. Max decides to keep the cheese safe, and together they set off to discover what wishes might be possible.\n\nThe meadow bursts with friendly critters who watch the new friends with awe. The Narrator paints the scene of blooming wildflowers, a babbling brook, and the first spark of an extraordinary quest. Max, with his tiny paws and big bravery, promises to use the cheese's magic wisely, while Cheesy giggles and explains that it can grant three wishes, each one needing a kind heart. The beginning ends with Max slipping the cheese into his tiny satchel, ready for the first wish.",
+        "story_part": "beginning",
+        "story_part_speakers": [
+          "Narrator",
+          "Max the Mouse",
+          "Cheesy the Cheese"
+        ]
+      },
+      {
+        "story_part_summary": "Eager to test the magic, Max makes his first wish: a mountain of juicy berries for all his forest friends. Cheesy twinkles brightly, and in a puff of cheesy sparkle, a huge basket of berries appears, rolling down the hill to the delighted animals. The Narrator describes the joyful chaos as squirrels, hedgehogs, and even a shy rabbit share the feast. Max laughs, feeling the power of the wish, while Cheesy reminds him that each wish must be made with care.\n\nEncouraged, Max and Cheesy set off on a small adventure to help a family of ducklings cross the bubbling brook. Max wishes for a gentle wooden bridge, and the cheese glows, conjuring a bright, curvy bridge that arches over the water. The ducklings quack happily as they waddle across. The Narrator notes the teamwork, the rustling leaves, and the growing bond between mouse and cheese. Their second wish is saved for something truly special, and the middle part ends with the friends planning their final wish while watching the sunset turn the meadow gold.",
+        "story_part": "middle",
+        "story_part_speakers": [
+          "Narrator",
+          "Max the Mouse",
+          "Cheesy the Cheese"
+        ]
+      },
+      {
+        "story_part_summary": "As night falls, Max thinks about the last wish. He sees the tiny firefly lights flickering and remembers the lonely old turtle who lives far beyond the hill, too slow to visit the bustling forest. Max wishes for a magical meadow pathway that glows with firefly lanterns, allowing the old turtle to travel safely and join the celebrations. Cheesy shines brighter than ever, and a sparkling trail of golden light winds through the hills, leading straight to the turtle's home.\n\nThe Narrator tells how the turtle arrives, his eyes lighting up as he meets Max, Cheesy, and all the forest friends. Everyone gathers for a moonlit feast, sharing stories and laughter. Max thanks Cheesy for the wonderful adventures, and Cheesy smiles, saying the greatest magic is the friendships they've forged. With a gentle sigh, Cheesy returns to its golden glow, ready to rest until another brave heart finds it. The story ends with the Narrator reminding listeners that kindness, courage, and a little imagination can make any wish come true, and Max waves goodbye, his heart full of joy.",
+        "story_part": "end",
+        "story_part_speakers": [
+          "Narrator",
+          "Max the Mouse",
+          "Cheesy the Cheese"
+        ]
+      }
+    ],
+    "speaker_names": [
+      "Narrator",
+      "Max the Mouse",
+      "Cheesy the Cheese"
+    ],
+    "metadata": {
+      "genre": "adventure",
+      "reading_level": "elementary",
+      "tone": "lighthearted",
+      "user_input_description": "A brave little mouse named Max who discovers a magical cheese that grants wishes",
+      "story_type": "audio",
+      "number_of_speakers": 3,
+      "created_timestamp": "2025-10-14T16:17:59.714746+00:00",
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "complete-workflow-20251014-121730-outline",
+      "audio_length": 120
+    }
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "24cdeaf6-6541-4923-a2ac-16f7e75435ba"
+}

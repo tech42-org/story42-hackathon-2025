@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "route": "generate_story_outline_description",
+  "result": {
+    "story_parts": [
+      {
+        "story_part_summary": "In the sunny valley of Llamalot, the brave llama leader Llamar the Explorer gathers his friends for a daring quest. A golden map shows the hidden Crystal Carrot deep inside the Misty Mountain, just like a treasure from an ancient tale. The group packs tasty snacks, a colorful blanket, and a tiny compass, and they set off with big smiles, ready for adventure.",
+        "story_part": "beginning",
+        "story_part_speakers": [
+          "Narrator",
+          "Llamar the Explorer",
+          "Tippy the Alpaca"
+        ]
+      },
+      {
+        "story_part_summary": "Along the winding trail, the llamas meet a mischievous wind spirit who tries to blow their map away. Llamar stays calm and Tippy uses his fluffy tail to catch the map, while the Narrator cheerfully describes the swirling clouds and friendly forest critters cheering them on. Together they solve a riddling stone door that guards the mountain entrance, proving teamwork can move mountains.",
+        "story_part": "middle",
+        "story_part_speakers": [
+          "Narrator",
+          "Llamar the Explorer",
+          "Tippy the Alpaca"
+        ]
+      },
+      {
+        "story_part_summary": "At the peak, the friends discover the sparkling Crystal Carrot glowing with rainbow light. Just as they reach for it, a sleepy mountain guardian yawns and offers a gentle reminder: the real treasure is friendship. Llamar and Tippy share a happy dance, and the Narrator wraps up the tale with a warm laugh, promising more lighthearted quests on the horizon.",
+        "story_part": "end",
+        "story_part_speakers": [
+          "Narrator",
+          "Llamar the Explorer",
+          "Tippy the Alpaca"
+        ]
+      }
+    ],
+    "speaker_names": [
+      "Narrator",
+      "Llamar the Explorer",
+      "Tippy the Alpaca"
+    ],
+    "metadata": {
+      "genre": "adventure",
+      "reading_level": "elementary",
+      "tone": "lighthearted",
+      "user_input_description": "A group of llamas go on an lord of the ring like adventure",
+      "story_type": "visual",
+      "number_of_speakers": 3,
+      "created_timestamp": "2025-10-21T14:38:59.686343+00:00",
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "complete-workflow-20251021-103839-outline",
+      "panels": 3
+    }
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "62a8f9e5-9a8a-4a76-859f-456c94f76a24"
+}

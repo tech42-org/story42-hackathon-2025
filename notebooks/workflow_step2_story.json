@@ -1,0 +1,120 @@
+{
+  "success": true,
+  "route": "generate_entire_story",
+  "result": {
+    "story_parts": [
+      {
+        "story_part": "beginning",
+        "sections": [
+          {
+            "section_num": 1,
+            "segments": [
+              {
+                "segment_num": 1,
+                "segment_content": "In the sunny valley of Llamalot, a golden sunrise paints the hills as Llamar the Explorer gathers his friends for a daring quest.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 2,
+                "segment_content": "Friends, the golden map shows a hidden Crystal Carrot deep inside the Misty Mountain! Let's pack and go!",
+                "speaker": "Llamar the Explorer"
+              },
+              {
+                "segment_num": 3,
+                "segment_content": "I'll bring my fluffy blanket, tasty snacks, and my tiny compass to keep us on track!",
+                "speaker": "Tippy the Alpaca"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "story_part": "middle",
+        "sections": [
+          {
+            "section_num": 2,
+            "segments": [
+              {
+                "segment_num": 4,
+                "segment_content": "Along the winding trail, a mischievous wind spirit whistles and tries to blow the map away, while forest critters cheer from the trees.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 5,
+                "segment_content": "Hold steady, Tippy! The map is safe.",
+                "speaker": "Llamar the Explorer"
+              },
+              {
+                "segment_num": 6,
+                "segment_content": "Got it! My fluffy tail caught the map just in time.",
+                "speaker": "Tippy the Alpaca"
+              },
+              {
+                "segment_num": 7,
+                "segment_content": "They arrive at a riddling stone door; together they whisper the answer, and the door creaks open, proving teamwork can move mountains.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 8,
+                "segment_content": "Together we can solve any puzzle!",
+                "speaker": "Llamar the Explorer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "story_part": "end",
+        "sections": [
+          {
+            "section_num": 3,
+            "segments": [
+              {
+                "segment_num": 9,
+                "segment_content": "At the snowy peak, the sparkling Crystal Carrot glows with rainbow light as a sleepy mountain guardian yawns and stretches.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 10,
+                "segment_content": "Wow! It shines like a rainbow!",
+                "speaker": "Tippy the Alpaca"
+              },
+              {
+                "segment_num": 11,
+                "segment_content": "The real treasure is our friendship.",
+                "speaker": "Llamar the Explorer"
+              },
+              {
+                "segment_num": 12,
+                "segment_content": "They share a happy dance, and the valley echoes with laughter, promising many more lighthearted quests ahead.",
+                "speaker": "Narrator"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "speaker_names": [
+      "Narrator",
+      "Llamar the Explorer",
+      "Tippy the Alpaca"
+    ],
+    "metadata": {
+      "genre": "adventure",
+      "reading_level": "elementary",
+      "tone": "lighthearted",
+      "story_type": "visual",
+      "number_of_speakers": 3,
+      "created_timestamp": "2025-10-21T14:39:15.136138+00:00",
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "complete-workflow-20251021-103839-story",
+      "panels": 3
+    }
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "709b2e73-8bf8-4dc9-a4b5-449ed9058d71"
+}

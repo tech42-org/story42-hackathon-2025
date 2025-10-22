@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "route": "generate_entire_story_image",
+  "result": {
+    "story_segments": [
+      {
+        "story_segment_content": "Scene description: \"Max the Mouse peeks out of his tiny leaf-shaped door, whiskers twitching, and spots a glittering cheese perched on a sunny stone.\" A dialogue box reads \"Max the Mouse: Whoa! A sparkling cheese! This looks like a fun adventure!\"",
+        "story_segment_number": 1,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_1.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_1.png?AWSAccessKeyId=ASIAQEBVMISOUVSTWTJQ&Signature=bFwfbOpur0fppb3PcKDvLf7%2FVoM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIB5S9f%2FRS3FaxRLQsOphHnCqYk5X1%2FQxxj7Fg9hh8oCwAiEAnP41bypvkdtoQd3s3FKECRmhp%2BQcIPEJt7gSbU2MXbAqkQMIYRAAGgwwMDg3MDE4ODc2NDUiDEQ2Sy7SMFJpkVK8mSruAgwrjuRlgPH%2FPoTTrwF42sb8xTVY6RKDhjcR%2Fp3aFPla2Xa5VW9%2FuJ977FkhePisP8aAqdOKWSdGqhg5tRTccC6yNCHK35VVa9uJWa2FNOk%2B7kqJcT1PcY7xwR9V7t8o7dIYKS1SIOgs0Hy5MPgcTFNqTl1qSGygWLDijvw0FSuqJRAgPY7KY6I4jIEamNk7Dae2fybkz6Nyi8hI8p8K%2Bau6Yugmdn%2FAGuaNw2bY%2BERa2YFYzXjKyCliu3SUVgemcQSjCe13aXq2WwH4TkkcPhn0db8Jqw1NzsrnBgJuXdHgYVhUkEom8xmDgBgtWUH4KbjftYC8Orw59wU5u4ok91%2FK1CjqfnSD9Nu%2FJOq0TGoCFtvclsE7hbTyJqkrsIlqginNkncnCCzwY5TwfbPes9sEerhk%2BESaWvnXuT7yPtQH3kq3ibQBu5RCl1tvbRZ7r7Al%2B1H9JAH98nQLDUs0GXU9QsDv%2BajShYzLORUjKjDP5bnHBjqdAaoUiUvzk%2BR%2BFTnY3TpK8QNFYOl%2FYAKLW9ixSdd5Bt7nQmrMem44922pNoO%2FqTyJVUuUIYrLRwbKc3stnd%2BTUuNv89a%2F6HlRe6s7QQsavLj7s6wRsRurzmZsZZ4ChmCWLZF%2BGSKslTEenwtjPrC7nIXe2rA6ZMkQlv4FC3%2FTSOdr%2B9HBUUY5ibAzr7zMTSoww%2FYgZCJ4vY%2Bt8BDB6sM%3D&Expires=1760461084"
+      },
+      {
+        "story_segment_content": "Scene description: \"A close-up shows the cheese glowing with tiny star-like flecks, its magic humming in the warm light, and Max's brave heart beats faster.\" A dialogue box reads \"Max the Mouse: I can't wait to make a wish!\"",
+        "story_segment_number": 2,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_2.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_2.png?AWSAccessKeyId=ASIAQEBVMISOUVSTWTJQ&Signature=U4qybsypc1HoyH4pO19iz951xIw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIB5S9f%2FRS3FaxRLQsOphHnCqYk5X1%2FQxxj7Fg9hh8oCwAiEAnP41bypvkdtoQd3s3FKECRmhp%2BQcIPEJt7gSbU2MXbAqkQMIYRAAGgwwMDg3MDE4ODc2NDUiDEQ2Sy7SMFJpkVK8mSruAgwrjuRlgPH%2FPoTTrwF42sb8xTVY6RKDhjcR%2Fp3aFPla2Xa5VW9%2FuJ977FkhePisP8aAqdOKWSdGqhg5tRTccC6yNCHK35VVa9uJWa2FNOk%2B7kqJcT1PcY7xwR9V7t8o7dIYKS1SIOgs0Hy5MPgcTFNqTl1qSGygWLDijvw0FSuqJRAgPY7KY6I4jIEamNk7Dae2fybkz6Nyi8hI8p8K%2Bau6Yugmdn%2FAGuaNw2bY%2BERa2YFYzXjKyCliu3SUVgemcQSjCe13aXq2WwH4TkkcPhn0db8Jqw1NzsrnBgJuXdHgYVhUkEom8xmDgBgtWUH4KbjftYC8Orw59wU5u4ok91%2FK1CjqfnSD9Nu%2FJOq0TGoCFtvclsE7hbTyJqkrsIlqginNkncnCCzwY5TwfbPes9sEerhk%2BESaWvnXuT7yPtQH3kq3ibQBu5RCl1tvbRZ7r7Al%2B1H9JAH98nQLDUs0GXU9QsDv%2BajShYzLORUjKjDP5bnHBjqdAaoUiUvzk%2BR%2BFTnY3TpK8QNFYOl%2FYAKLW9ixSdd5Bt7nQmrMem44922pNoO%2FqTyJVUuUIYrLRwbKc3stnd%2BTUuNv89a%2F6HlRe6s7QQsavLj7s6wRsRurzmZsZZ4ChmCWLZF%2BGSKslTEenwtjPrC7nIXe2rA6ZMkQlv4FC3%2FTSOdr%2B9HBUUY5ibAzr7zMTSoww%2FYgZCJ4vY%2Bt8BDB6sM%3D&Expires=1760461084"
+      },
+      {
+        "story_segment_content": "A dialogue box reads \"Max the Mouse: I wish for a yummy berry pizza for all my forest friends!\" Scene description: \"The cheese twinkles brightly, and a steaming berry pizza lands with a gentle thud, while squirrels, bunnies, and birds cheer with delight.\"",
+        "story_segment_number": 3,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_3.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_3.png?AWSAccessKeyId=ASIAQEBVMISOUVSTWTJQ&Signature=PpqWwq0gimEZGvjMxTEdOO%2BIH2I%3D&x-amz-security-token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIB5S9f%2FRS3FaxRLQsOphHnCqYk5X1%2FQxxj7Fg9hh8oCwAiEAnP41bypvkdtoQd3s3FKECRmhp%2BQcIPEJt7gSbU2MXbAqkQMIYRAAGgwwMDg3MDE4ODc2NDUiDEQ2Sy7SMFJpkVK8mSruAgwrjuRlgPH%2FPoTTrwF42sb8xTVY6RKDhjcR%2Fp3aFPla2Xa5VW9%2FuJ977FkhePisP8aAqdOKWSdGqhg5tRTccC6yNCHK35VVa9uJWa2FNOk%2B7kqJcT1PcY7xwR9V7t8o7dIYKS1SIOgs0Hy5MPgcTFNqTl1qSGygWLDijvw0FSuqJRAgPY7KY6I4jIEamNk7Dae2fybkz6Nyi8hI8p8K%2Bau6Yugmdn%2FAGuaNw2bY%2BERa2YFYzXjKyCliu3SUVgemcQSjCe13aXq2WwH4TkkcPhn0db8Jqw1NzsrnBgJuXdHgYVhUkEom8xmDgBgtWUH4KbjftYC8Orw59wU5u4ok91%2FK1CjqfnSD9Nu%2FJOq0TGoCFtvclsE7hbTyJqkrsIlqginNkncnCCzwY5TwfbPes9sEerhk%2BESaWvnXuT7yPtQH3kq3ibQBu5RCl1tvbRZ7r7Al%2B1H9JAH98nQLDUs0GXU9QsDv%2BajShYzLORUjKjDP5bnHBjqdAaoUiUvzk%2BR%2BFTnY3TpK8QNFYOl%2FYAKLW9ixSdd5Bt7nQmrMem44922pNoO%2FqTyJVUuUIYrLRwbKc3stnd%2BTUuNv89a%2F6HlRe6s7QQsavLj7s6wRsRurzmZsZZ4ChmCWLZF%2BGSKslTEenwtjPrC7nIXe2rA6ZMkQlv4FC3%2FTSOdr%2B9HBUUY5ibAzr7zMTSoww%2FYgZCJ4vY%2Bt8BDB6sM%3D&Expires=1760461085"
+      },
+      {
+        "story_segment_content": "A dialogue box reads \"Sparkle the Cheese: Hello, Max! I'm Sparkle, and I can grant you three wishes. Let's think of something fun!\" A dialogue box reads \"Max the Mouse: Ha ha! This is going to be awesome!\" Scene description: \"Bright sparkles swirl around them as they giggle and plan the next delightful wish.\"",
+        "story_segment_number": 4,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_4.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_4.png?AWSAccessKeyId=ASIAQEBVMISOUVSTWTJQ&Signature=WJ31nS73UxGMk02zzqctnhFGoug%3D&x-amz-security-token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIB5S9f%2FRS3FaxRLQsOphHnCqYk5X1%2FQxxj7Fg9hh8oCwAiEAnP41bypvkdtoQd3s3FKECRmhp%2BQcIPEJt7gSbU2MXbAqkQMIYRAAGgwwMDg3MDE4ODc2NDUiDEQ2Sy7SMFJpkVK8mSruAgwrjuRlgPH%2FPoTTrwF42sb8xTVY6RKDhjcR%2Fp3aFPla2Xa5VW9%2FuJ977FkhePisP8aAqdOKWSdGqhg5tRTccC6yNCHK35VVa9uJWa2FNOk%2B7kqJcT1PcY7xwR9V7t8o7dIYKS1SIOgs0Hy5MPgcTFNqTl1qSGygWLDijvw0FSuqJRAgPY7KY6I4jIEamNk7Dae2fybkz6Nyi8hI8p8K%2Bau6Yugmdn%2FAGuaNw2bY%2BERa2YFYzXjKyCliu3SUVgemcQSjCe13aXq2WwH4TkkcPhn0db8Jqw1NzsrnBgJuXdHgYVhUkEom8xmDgBgtWUH4KbjftYC8Orw59wU5u4ok91%2FK1CjqfnSD9Nu%2FJOq0TGoCFtvclsE7hbTyJqkrsIlqginNkncnCCzwY5TwfbPes9sEerhk%2BESaWvnXuT7yPtQH3kq3ibQBu5RCl1tvbRZ7r7Al%2B1H9JAH98nQLDUs0GXU9QsDv%2BajShYzLORUjKjDP5bnHBjqdAaoUiUvzk%2BR%2BFTnY3TpK8QNFYOl%2FYAKLW9ixSdd5Bt7nQmrMem44922pNoO%2FqTyJVUuUIYrLRwbKc3stnd%2BTUuNv89a%2F6HlRe6s7QQsavLj7s6wRsRurzmZsZZ4ChmCWLZF%2BGSKslTEenwtjPrC7nIXe2rA6ZMkQlv4FC3%2FTSOdr%2B9HBUUY5ibAzr7zMTSoww%2FYgZCJ4vY%2Bt8BDB6sM%3D&Expires=1760461086"
+      },
+      {
+        "story_segment_content": "A dialogue box reads \"Max the Mouse: I wish for a rainbow slide so all the tiny critters can zip to my burrow!\" A dialogue box reads \"Sparkle the Cheese: Your wish is sparkling!\" Scene description: \"A colorful slide sprouts from the hill, arcing across the sky; rabbits, chipmunks, and fireflies whoop with glee as they glide down.\"",
+        "story_segment_number": 5,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_5.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_5.png?AWSAccessKeyId=ASIAQEBVMISOUVSTWTJQ&Signature=WdyFIL82e7CnMe2e2d7OzeS6aFI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIB5S9f%2FRS3FaxRLQsOphHnCqYk5X1%2FQxxj7Fg9hh8oCwAiEAnP41bypvkdtoQd3s3FKECRmhp%2BQcIPEJt7gSbU2MXbAqkQMIYRAAGgwwMDg3MDE4ODc2NDUiDEQ2Sy7SMFJpkVK8mSruAgwrjuRlgPH%2FPoTTrwF42sb8xTVY6RKDhjcR%2Fp3aFPla2Xa5VW9%2FuJ977FkhePisP8aAqdOKWSdGqhg5tRTccC6yNCHK35VVa9uJWa2FNOk%2B7kqJcT1PcY7xwR9V7t8o7dIYKS1SIOgs0Hy5MPgcTFNqTl1qSGygWLDijvw0FSuqJRAgPY7KY6I4jIEamNk7Dae2fybkz6Nyi8hI8p8K%2Bau6Yugmdn%2FAGuaNw2bY%2BERa2YFYzXjKyCliu3SUVgemcQSjCe13aXq2WwH4TkkcPhn0db8Jqw1NzsrnBgJuXdHgYVhUkEom8xmDgBgtWUH4KbjftYC8Orw59wU5u4ok91%2FK1CjqfnSD9Nu%2FJOq0TGoCFtvclsE7hbTyJqkrsIlqginNkncnCCzwY5TwfbPes9sEerhk%2BESaWvnXuT7yPtQH3kq3ibQBu5RCl1tvbRZ7r7Al%2B1H9JAH98nQLDUs0GXU9QsDv%2BajShYzLORUjKjDP5bnHBjqdAaoUiUvzk%2BR%2BFTnY3TpK8QNFYOl%2FYAKLW9ixSdd5Bt7nQmrMem44922pNoO%2FqTyJVUuUIYrLRwbKc3stnd%2BTUuNv89a%2F6HlRe6s7QQsavLj7s6wRsRurzmZsZZ4ChmCWLZF%2BGSKslTEenwtjPrC7nIXe2rA6ZMkQlv4FC3%2FTSOdr%2B9HBUUY5ibAzr7zMTSoww%2FYgZCJ4vY%2Bt8BDB6sM%3D&Expires=1760461086"
+      },
+      {
+        "story_segment_content": "A dialogue box reads \"Max the Mouse: Thank you, Sparkle! This adventure was the best!\" A dialogue box reads \"Sparkle the Cheese: Remember, the greatest wish is sharing joy with friends.\" Scene description: \"Max, Sparkle, and the happy forest critters wave goodbye, promising many more lighthearted quests together.\"",
+        "story_segment_number": 6,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_6.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251014-114228-images/segment_6.png?AWSAccessKeyId=ASIAQEBVMISOUVSTWTJQ&Signature=vY0nWjyFIfZAiD6YqGjjgoPV0fQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIB5S9f%2FRS3FaxRLQsOphHnCqYk5X1%2FQxxj7Fg9hh8oCwAiEAnP41bypvkdtoQd3s3FKECRmhp%2BQcIPEJt7gSbU2MXbAqkQMIYRAAGgwwMDg3MDE4ODc2NDUiDEQ2Sy7SMFJpkVK8mSruAgwrjuRlgPH%2FPoTTrwF42sb8xTVY6RKDhjcR%2Fp3aFPla2Xa5VW9%2FuJ977FkhePisP8aAqdOKWSdGqhg5tRTccC6yNCHK35VVa9uJWa2FNOk%2B7kqJcT1PcY7xwR9V7t8o7dIYKS1SIOgs0Hy5MPgcTFNqTl1qSGygWLDijvw0FSuqJRAgPY7KY6I4jIEamNk7Dae2fybkz6Nyi8hI8p8K%2Bau6Yugmdn%2FAGuaNw2bY%2BERa2YFYzXjKyCliu3SUVgemcQSjCe13aXq2WwH4TkkcPhn0db8Jqw1NzsrnBgJuXdHgYVhUkEom8xmDgBgtWUH4KbjftYC8Orw59wU5u4ok91%2FK1CjqfnSD9Nu%2FJOq0TGoCFtvclsE7hbTyJqkrsIlqginNkncnCCzwY5TwfbPes9sEerhk%2BESaWvnXuT7yPtQH3kq3ibQBu5RCl1tvbRZ7r7Al%2B1H9JAH98nQLDUs0GXU9QsDv%2BajShYzLORUjKjDP5bnHBjqdAaoUiUvzk%2BR%2BFTnY3TpK8QNFYOl%2FYAKLW9ixSdd5Bt7nQmrMem44922pNoO%2FqTyJVUuUIYrLRwbKc3stnd%2BTUuNv89a%2F6HlRe6s7QQsavLj7s6wRsRurzmZsZZ4ChmCWLZF%2BGSKslTEenwtjPrC7nIXe2rA6ZMkQlv4FC3%2FTSOdr%2B9HBUUY5ibAzr7zMTSoww%2FYgZCJ4vY%2Bt8BDB6sM%3D&Expires=1760461087"
+      }
+    ],
+    "metadata": {
+      "created_timestamp": "2025-10-14T15:58:03.487181+00:00",
+      "art_style": "whimsical watercolor illustration",
+      "number_of_panels": 6,
+      "generated_panels": 6,
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "complete-workflow-20251014-114228-images"
+    }
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "576156e6-0568-402f-a045-fa5970c6ac2c"
+}

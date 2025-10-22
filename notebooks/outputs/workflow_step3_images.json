@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "route": "generate_entire_story_image",
+  "result": {
+    "story_segments": [
+      {
+        "story_segment_content": "Scene description: \"In the sunny valley of Llamalot, a golden sunrise paints the hills as Llamar the Explorer gathers his friends for a daring quest.\"",
+        "story_segment_number": 1,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251021-103839-images/segment_1.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251021-103839-images/segment_1.png?AWSAccessKeyId=ASIAQEBVMISOQSRVEYYF&Signature=QmiubE3fplT4Is77cpbBTVNy3oQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEF8aCXVzLWVhc3QtMSJHMEUCIF7BKZ0k7otfaiZvO%2FX%2F5lF8ZwOpNcW5K%2ByyDR5BOFM3AiEAs%2BzryaKFiz5qUArLB6zWL3UYBKDpQdl9mmdsb3v8aYQqkQMIGBAAGgwwMDg3MDE4ODc2NDUiDHGPpVD8gzBH3DfWhyruAjDEMtOS%2B0PsKGjmc%2Bvl%2Fl9JcgHRULrl0cokNpjv5knBR%2F3OUQBg1GAWaKXizLJjgB3gEd%2FjDSUb7rxylIA06mVn2CrHMHJCFROPVkGz5KGVwdgY%2F5btIjUnEhW6PkQOsTHmQNB2k6GgR%2BV61ez8ijjFr6ao2jOb8G4YZcs%2FJt4e0cfm63mksizrcgezEtckNeJfmOudmzggy3O%2Be%2FMtF9JdFqU9iA7UyI90p4hXlHvdcdEmkVBsMAEgTFB5GHu22sb420q9U3i5rUXxob6I8TGczUUwNWABJD44Q7BVupt31552gBJAujaGtAJtIAUtE9r1QiNEQqXmXi5qr%2BllnZ7Y0G%2FyrxR2O3FwOXJPSGzWy%2BR8u%2BKd33CA17owseBMQqfeggUW2BwLpymay81dZ8Dv7%2F1D1kJJaA7dgKHRFGVDW34ZSuipR%2B2%2FllZr4RaeMwZtg4Y10ckh1PGbSzjzpsqbf5Q3g8Sxr%2BdLLNeHKjCZud7HBjqdAW60E0WwDTRQp2tPjcTe3yVsSe6iqxbah%2BinTbw5AR0fe10actLm8ojLYW1c39ACnEMPJ9uepIWG4HhlyPHXBdpoT67oIGNYTGIy1x6ohYaDmZMKrwbZG6kMqLuoq3DgXpT1CZhCC8mfLcpWgj6toVaWqXoNsCXUzXP3dsdIbJsDWgIV1QIBYgbTDoaT4INhdZv1cdNzbUcve2HjM7k%3D&Expires=1761061573"
+      },
+      {
+        "story_segment_content": "Scene description: \"Along the winding trail, a mischievous wind spirit whistles and tries to blow the map away, while forest critters cheer from the trees.\" Scene description: \"They arrive at a riddling stone door; together they whisper the answer, and the door creaks open, proving teamwork can move mountains.\"",
+        "story_segment_number": 2,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251021-103839-images/segment_2.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251021-103839-images/segment_2.png?AWSAccessKeyId=ASIAQEBVMISOQSRVEYYF&Signature=omXZLED7TlqytfSIM5e36AS5pGU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEF8aCXVzLWVhc3QtMSJHMEUCIF7BKZ0k7otfaiZvO%2FX%2F5lF8ZwOpNcW5K%2ByyDR5BOFM3AiEAs%2BzryaKFiz5qUArLB6zWL3UYBKDpQdl9mmdsb3v8aYQqkQMIGBAAGgwwMDg3MDE4ODc2NDUiDHGPpVD8gzBH3DfWhyruAjDEMtOS%2B0PsKGjmc%2Bvl%2Fl9JcgHRULrl0cokNpjv5knBR%2F3OUQBg1GAWaKXizLJjgB3gEd%2FjDSUb7rxylIA06mVn2CrHMHJCFROPVkGz5KGVwdgY%2F5btIjUnEhW6PkQOsTHmQNB2k6GgR%2BV61ez8ijjFr6ao2jOb8G4YZcs%2FJt4e0cfm63mksizrcgezEtckNeJfmOudmzggy3O%2Be%2FMtF9JdFqU9iA7UyI90p4hXlHvdcdEmkVBsMAEgTFB5GHu22sb420q9U3i5rUXxob6I8TGczUUwNWABJD44Q7BVupt31552gBJAujaGtAJtIAUtE9r1QiNEQqXmXi5qr%2BllnZ7Y0G%2FyrxR2O3FwOXJPSGzWy%2BR8u%2BKd33CA17owseBMQqfeggUW2BwLpymay81dZ8Dv7%2F1D1kJJaA7dgKHRFGVDW34ZSuipR%2B2%2FllZr4RaeMwZtg4Y10ckh1PGbSzjzpsqbf5Q3g8Sxr%2BdLLNeHKjCZud7HBjqdAW60E0WwDTRQp2tPjcTe3yVsSe6iqxbah%2BinTbw5AR0fe10actLm8ojLYW1c39ACnEMPJ9uepIWG4HhlyPHXBdpoT67oIGNYTGIy1x6ohYaDmZMKrwbZG6kMqLuoq3DgXpT1CZhCC8mfLcpWgj6toVaWqXoNsCXUzXP3dsdIbJsDWgIV1QIBYgbTDoaT4INhdZv1cdNzbUcve2HjM7k%3D&Expires=1761061574"
+      },
+      {
+        "story_segment_content": "Scene description: \"At the snowy peak, the sparkling Crystal Carrot glows with rainbow light as a sleepy mountain guardian yawns and stretches.\" Scene description: \"They share a happy dance, and the valley echoes with laughter, promising many more lighthearted quests ahead.\"",
+        "story_segment_number": 3,
+        "story_segment_speaker": "Narrator",
+        "image_s3_uri": "s3://story-42-story-images-dev/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251021-103839-images/segment_3.png",
+        "image_presigned_url": "https://story-42-story-images-dev.s3.amazonaws.com/users/24e8e4f8-0061-70c1-0b17-2508a1b5b9a6/jobs/complete-workflow-20251021-103839-images/segment_3.png?AWSAccessKeyId=ASIAQEBVMISOQSRVEYYF&Signature=xD6Bq7%2FMAjssywrkky4WsXijc0M%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEF8aCXVzLWVhc3QtMSJHMEUCIF7BKZ0k7otfaiZvO%2FX%2F5lF8ZwOpNcW5K%2ByyDR5BOFM3AiEAs%2BzryaKFiz5qUArLB6zWL3UYBKDpQdl9mmdsb3v8aYQqkQMIGBAAGgwwMDg3MDE4ODc2NDUiDHGPpVD8gzBH3DfWhyruAjDEMtOS%2B0PsKGjmc%2Bvl%2Fl9JcgHRULrl0cokNpjv5knBR%2F3OUQBg1GAWaKXizLJjgB3gEd%2FjDSUb7rxylIA06mVn2CrHMHJCFROPVkGz5KGVwdgY%2F5btIjUnEhW6PkQOsTHmQNB2k6GgR%2BV61ez8ijjFr6ao2jOb8G4YZcs%2FJt4e0cfm63mksizrcgezEtckNeJfmOudmzggy3O%2Be%2FMtF9JdFqU9iA7UyI90p4hXlHvdcdEmkVBsMAEgTFB5GHu22sb420q9U3i5rUXxob6I8TGczUUwNWABJD44Q7BVupt31552gBJAujaGtAJtIAUtE9r1QiNEQqXmXi5qr%2BllnZ7Y0G%2FyrxR2O3FwOXJPSGzWy%2BR8u%2BKd33CA17owseBMQqfeggUW2BwLpymay81dZ8Dv7%2F1D1kJJaA7dgKHRFGVDW34ZSuipR%2B2%2FllZr4RaeMwZtg4Y10ckh1PGbSzjzpsqbf5Q3g8Sxr%2BdLLNeHKjCZud7HBjqdAW60E0WwDTRQp2tPjcTe3yVsSe6iqxbah%2BinTbw5AR0fe10actLm8ojLYW1c39ACnEMPJ9uepIWG4HhlyPHXBdpoT67oIGNYTGIy1x6ohYaDmZMKrwbZG6kMqLuoq3DgXpT1CZhCC8mfLcpWgj6toVaWqXoNsCXUzXP3dsdIbJsDWgIV1QIBYgbTDoaT4INhdZv1cdNzbUcve2HjM7k%3D&Expires=1761061575"
+      }
+    ],
+    "metadata": {
+      "created_timestamp": "2025-10-21T14:46:12.947012+00:00",
+      "art_style": "whimsical watercolor illustration",
+      "number_of_panels": 3,
+      "generated_panels": 3,
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "complete-workflow-20251021-103839-images"
+    }
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "0e272933-65e1-4978-8215-8081c09af0e0"
+}

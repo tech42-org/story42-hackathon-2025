@@ -1,0 +1,315 @@
+{
+  "success": true,
+  "route": "generate_entire_story",
+  "result": {
+    "story_parts": [
+      {
+        "story_part": "beginning",
+        "sections": [
+          {
+            "section_num": 1,
+            "segments": [
+              {
+                "segment_num": 1,
+                "segment_content": "In a sunny meadow just beyond Max's cozy burrow, wildflowers sway and a gentle breeze tickles the tall grass.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 2,
+                "segment_content": "Whoa! What could this be?",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 3,
+                "segment_content": "A round, golden cheese peeks out of the grass, shimmering like a tiny sunrise.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 4,
+                "segment_content": "Hello, I\u2019m Cheesy the magical cheese, and I can grant wishes!",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 5,
+                "segment_content": "I\u2019ll keep you safe, Cheesy! Let\u2019s explore together.",
+                "speaker": "Max the Mouse"
+              }
+            ]
+          },
+          {
+            "section_num": 2,
+            "segments": [
+              {
+                "segment_num": 6,
+                "segment_content": "Friendly critters gather: buzzing bees, chirping birds, and a shy rabbit watching the new friends with awe.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 7,
+                "segment_content": "I promise to use your magic wisely, Cheesy.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 8,
+                "segment_content": "I can grant three wishes, but each one needs a kind heart.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 9,
+                "segment_content": "The meadow bursts with color\u2014purple lupines, golden daisies, and a sparkling brook that hums a happy tune.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 10,
+                "segment_content": "Max slips the glowing cheese into his tiny satchel, ready for the first wish.",
+                "speaker": "Narrator"
+              }
+            ]
+          },
+          {
+            "section_num": 3,
+            "segments": [
+              {
+                "segment_num": 11,
+                "segment_content": "The air feels excited as Max thinks of his first wish.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 12,
+                "segment_content": "I wish for a mountain of juicy berries for all my forest friends!",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 13,
+                "segment_content": "Cheesy twinkles brightly, ready to make the wish come true.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 14,
+                "segment_content": "In a puff of cheesy sparkle, a huge basket of berries rolls down the hill, scattering sweet fruit for everyone.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 15,
+                "segment_content": "Max giggles with delight, feeling the power of the magic.",
+                "speaker": "Max the Mouse"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "story_part": "middle",
+        "sections": [
+          {
+            "section_num": 4,
+            "segments": [
+              {
+                "segment_num": 16,
+                "segment_content": "Squirrels, hedgehogs, and the shy rabbit scramble happily, sharing berries and laughter.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 17,
+                "segment_content": "That was amazing! Look at all the smiles!",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 18,
+                "segment_content": "Remember, Max, each wish should be made with care.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 19,
+                "segment_content": "Nearby, a family of ducklings waddles to the bubbling brook, looking nervous about crossing.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 20,
+                "segment_content": "I wish for a gentle wooden bridge so the ducklings can cross safely.",
+                "speaker": "Max the Mouse"
+              }
+            ]
+          },
+          {
+            "section_num": 5,
+            "segments": [
+              {
+                "segment_num": 21,
+                "segment_content": "Cheesy glows warm, and a bright, curvy bridge appears, stretching over the water.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 22,
+                "segment_content": "The bridge arches gracefully, its wooden planks humming with a soft melody as the brook flows beneath.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 23,
+                "segment_content": "Quack! Quack! The ducklings waddle across, their feathers glistening in the sunshine.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 24,
+                "segment_content": "Max claps his tiny paws, proud of the helpful wish.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 25,
+                "segment_content": "We\u2019ll save the third wish for something truly special, Max.",
+                "speaker": "Cheesy the Cheese"
+              }
+            ]
+          },
+          {
+            "section_num": 6,
+            "segments": [
+              {
+                "segment_num": 26,
+                "segment_content": "As the sun dips, painting the sky gold, Max and Cheesy sit on a soft mossy hill, watching the colors change.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 27,
+                "segment_content": "Look at those fireflies flickering! They sparkle like tiny lanterns.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 28,
+                "segment_content": "A special wish can bring even more joy to friends far away.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 29,
+                "segment_content": "I think of the lonely old turtle on the far hill who can\u2019t visit us easily.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 30,
+                "segment_content": "The meadow settles into a gentle hush, and the friends begin to plan the final wish.",
+                "speaker": "Narrator"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "story_part": "end",
+        "sections": [
+          {
+            "section_num": 7,
+            "segments": [
+              {
+                "segment_num": 31,
+                "segment_content": "I wish for a magical meadow pathway that glows with firefly lanterns, so the old turtle can travel safely and join our celebrations.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 32,
+                "segment_content": "Cheesy shines brighter than ever, ready to weave the wish into light.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 33,
+                "segment_content": "A sparkling trail of golden light winds through the hills, each step lit by friendly fireflies.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 34,
+                "segment_content": "The fireflies dance along the path, humming a gentle lullaby as they guide the way.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 35,
+                "segment_content": "Max watches the glowing road with excitement, his heart full of hope.",
+                "speaker": "Max the Mouse"
+              }
+            ]
+          },
+          {
+            "section_num": 8,
+            "segments": [
+              {
+                "segment_num": 36,
+                "segment_content": "Soon, the old turtle arrives, his shell shimmering under the moonlight, following the firefly trail.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 37,
+                "segment_content": "Thank you, dear friends! I\u2019ve never felt so welcome.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 38,
+                "segment_content": "The turtle smiles, his eyes twinkling with joy as he meets Max, Cheesy, and all the forest friends.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 39,
+                "segment_content": "The greatest magic is the friendship we\u2019ve forged, Max. I\u2019m happy to have helped.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 40,
+                "segment_content": "Under the moon, everyone gathers for a feast, sharing stories, songs, and giggles.",
+                "speaker": "Narrator"
+              }
+            ]
+          },
+          {
+            "section_num": 9,
+            "segments": [
+              {
+                "segment_num": 41,
+                "segment_content": "Thanks, Cheesy, for this wonderful adventure and for teaching me the power of kindness.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 42,
+                "segment_content": "I will rest in my golden glow, waiting for the next brave heart to find me.",
+                "speaker": "Cheesy the Cheese"
+              },
+              {
+                "segment_num": 43,
+                "segment_content": "Remember, listeners, kindness, courage, and a little imagination can make any wish come true.",
+                "speaker": "Narrator"
+              },
+              {
+                "segment_num": 44,
+                "segment_content": "Max waves goodbye, his whiskers twitching with excitement for the next quest.",
+                "speaker": "Max the Mouse"
+              },
+              {
+                "segment_num": 45,
+                "segment_content": "And so the meadow settles into peaceful night, filled with the gentle glow of friendship.",
+                "speaker": "Narrator"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "speaker_names": [
+      "Narrator",
+      "Max the Mouse",
+      "Cheesy the Cheese"
+    ],
+    "metadata": {
+      "genre": "adventure",
+      "reading_level": "elementary",
+      "tone": "lighthearted",
+      "story_type": "audio",
+      "number_of_speakers": 3,
+      "created_timestamp": "2025-10-14T16:18:22.770996+00:00",
+      "user_id": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+      "job_id": "complete-workflow-20251014-121730-story",
+      "audio_length": 120
+    }
+  },
+  "authenticated_user": {
+    "email": "admin@example.com",
+    "sub": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6",
+    "username": "24e8e4f8-0061-70c1-0b17-2508a1b5b9a6"
+  },
+  "request_id": "7fdbea05-cef9-4133-bfe3-e84ff27a827f"
+}
