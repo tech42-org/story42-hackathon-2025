@@ -25,7 +25,6 @@ RUN pip install --upgrade pip setuptools wheel && \
 
 # Copy application code
 COPY src ./src
-COPY start-dev.sh ./start-dev.sh
 
 ENV PORT=8000 \
     HOST=0.0.0.0
